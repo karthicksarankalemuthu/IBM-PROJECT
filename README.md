@@ -11,15 +11,15 @@ Live now click play the demo video
 
 [PLAY](https://drive.google.com/file/d/10QeDXUrs6X_zFSiazZNqUEJH_1i6V66X/view)
 ## Team members
- K.Karthick saran-711619106014
+ K.Karthick saran
 
- S.Ganapathy-711619106007
+ S.Ganapathy
 
- S.Sneha-711619106027
+ S.Sneha
 
- G.Gopinath-7111619106009
+ G.Gopinath
 
- M.samson durai-711619106023
+ M.samson durai
  ## Description
  As our lives are very busy these days, we often feel we need more than 24 hrs. a day to cope up with everything we have in our schedule. Well, that's not possible but reducing the time by changing the conventional method of reading news can help. Just tell us what market news you're interested in and get a quick peek for the day. Only read what you feel is relevant and save your time. This app helps you to query for all information about Indices, Commodities, Currencies, Future Rates, Bonds, etc.… as on official websites.
 
@@ -35,7 +35,7 @@ Live now click play the demo video
 
 ## Technical Architecture 
 
- ![App Screenshot](https://github.com/IBM-EPBL/IBM-Project-15088-1659594117/blob/master/screenshot/arc.png)
+ ![App Screenshot](https://github.com/karthicksarankalemuthu/IBM-PROJECT/blob/master/screenshot/arc.png)
 
   
 
@@ -59,9 +59,9 @@ Live now click play the demo video
   
 ## Screenshots
 
-![App Screenshot](https://github.com/IBM-EPBL/IBM-Project-15088-1659594117/blob/master/screenshot/signup.png)
-![App Screenshot](https://github.com/IBM-EPBL/IBM-Project-15088-1659594117/blob/master/screenshot/home.png)
-![App Screenshot](https://github.com/IBM-EPBL/IBM-Project-15088-1659594117/blob/master/screenshot/home2.png)
+![App Screenshot](https://github.com/karthicksarankalemuthu/IBM-PROJECT/blob/master/screenshot/signup.png)
+![App Screenshot](https://github.com/karthicksarankalemuthu/IBM-PROJECT/blob/master/screenshot/home.png)
+![App Screenshot](https://github.com/karthicksarankalemuthu/IBM-PROJECT/blob/master/screenshot/home2.png)
 
 
   
